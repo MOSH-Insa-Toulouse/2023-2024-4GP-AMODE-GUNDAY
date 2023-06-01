@@ -64,7 +64,7 @@ Le capteur que nous souhaitons utiliser pour ce projet est alimenté en 5V a une
 
 Nous avons également utilisé 3 filtres pour réduire le bruit au maximum. Le schéma est présenté ci-dessous:
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.001.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.001.png)
 
 • R5 en entrée protège l'ampli opérationnel contre les décharges électrostatiques (il sera remplacé par notre capteur graphite)
 
