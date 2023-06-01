@@ -4,7 +4,7 @@
 
 SOMMAIRE
 
-[Introduction	2](#_aqfiiiz3mat1)
+[Introduction	](#_aqfiiiz3mat1)
 
 [Circuit électronique	2](#_85kghymnccqe)
 
@@ -80,12 +80,12 @@ Nous avons également utilisé 3 filtres pour réduire le bruit au maximum. Le s
 
 Le signal de la sortie en fonction de la résistance R5 s'écrit:
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.002.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.002.png)
 ## <a name="_3wv6rcoxo2u0"></a>Etude des filtres
 
 Si nous ne mettons aucun filtres, nous obtiendrons la réponse suivante:
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.003.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.003.png)
 
 
 
@@ -101,12 +101,12 @@ Si nous ne mettons aucun filtres, nous obtiendrons la réponse suivante:
 
 **Visualisation mesure filtre R1C1**
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.004.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.004.png)
 
 
 **Visualisation mesure filtre R3C4**
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.005.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.005.png)
 
 
 
@@ -114,27 +114,27 @@ Si nous ne mettons aucun filtres, nous obtiendrons la réponse suivante:
 
 **Visualisation mesure filtre R6C2**
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.006.png) 
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.006.png) 
 
 ## <a name="_od7riktkldgj"></a>Modélisation du capteur: 
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.007.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.007.png)
 
 ## <a name="_dfu786f6gm2l"></a>Schema complet: 
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.008.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.008.png)
 # <a name="_9s9i8k258f05"></a>KICAD
 
 Nous avons utilisé le logiciel KICAD pour la réalisation de notre PCB. 
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.009.png) 
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.009.png) 
 
 
 **Schématique et empreinte des composants que nous avons dû modéliser:** 
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.010.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.010.png)
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.011.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.011.png)
 
 
 
@@ -148,10 +148,10 @@ Nous avons utilisé le logiciel KICAD pour la réalisation de notre PCB.
 
 **Notre PCB:**
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.012.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.012.png)
 
 ## <a name="_kr2nya7ldd2s"></a>**Photo du circuit**
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.013.jpeg)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.013.jpeg)
 
 
 
@@ -169,9 +169,9 @@ L'application à été développée avec le logiciel MIT App Inventor. Elle est 
 
 L’objectif de ce banc de test est de déterminer la variation relative de résistance de notre capteur en fonction de la déformation appliquée. À l'aide d'une imprimante 3D, nous avons créé notre bande de test. Ensuite nous avons utilisé notre banc de test pour mesurer la résistance en fonction de la déformation.![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.014.jpeg)
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.015.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.015.png)
 
-![](Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.016.png)
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.016.png)
 
 D'après nos tests nous constatons que notre capteur donne des résultats acceptables.
 
