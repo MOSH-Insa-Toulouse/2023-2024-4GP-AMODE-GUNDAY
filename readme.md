@@ -167,7 +167,9 @@ L'application à été développée avec le logiciel MIT App Inventor. Elle est 
 
 # <a name="_r0kbzpm251z9"></a>Banc de test
 
-L’objectif de ce banc de test est de déterminer la variation relative de résistance de notre capteur en fonction de la déformation appliquée. À l'aide d'une imprimante 3D, nous avons créé notre bande de test. Ensuite nous avons utilisé notre banc de test pour mesurer la résistance en fonction de la déformation.![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.014.jpeg)
+L’objectif de ce banc de test est de déterminer la variation relative de résistance de notre capteur en fonction de la déformation appliquée. À l'aide d'une imprimante 3D, nous avons créé notre bande de test. Ensuite nous avons utilisé notre banc de test pour mesurer la résistance en fonction de la déformation.
+
+![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.014.jpeg)
 
 ![](readme/Aspose.Words.3b03996b-de7f-4a27-b3a3-2ca13a7ea03e.015.png)
 
